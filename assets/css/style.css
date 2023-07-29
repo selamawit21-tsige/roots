@@ -472,8 +472,8 @@ h6 {
   height: 80vh;
   overflow: hidden;
   position: absolute;
-  background: url("../img/apple.touch-ico.png") top center;
-  background-size: cover;
+  background: url("../img/apple.hero-bg.jpg") top center;
+  background-size:cover;
   position: relative;
   margin-bottom: -90px;
   z-index: 99;
@@ -482,7 +482,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background:#38598b;
+  background:rgba(6, 101, 183, 0.9);
   position: absolute;
   bottom: 0;
   top: 0;
